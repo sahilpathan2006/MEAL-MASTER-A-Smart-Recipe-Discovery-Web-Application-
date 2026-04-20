@@ -1,0 +1,16 @@
+# Local environment variables (High Priority!)
+.env
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings (optional but recommended)
+.vscode/
+.idea/
